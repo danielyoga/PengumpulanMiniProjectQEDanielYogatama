@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15 Create Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f83806f6-d83d-4ea4-b83d-c50eef2bfa3d</testCaseGuid>
+   <variable>
+      <defaultValue>['Vakum Cleaner', '', 'Vakum Cleaner', 1234, 'Vakum Cleaner']</defaultValue>
+      <description></description>
+      <id>04ddbada-088b-4896-8ca0-1781198b6baa</id>
+      <masked>false</masked>
+      <name>product_name_arr</name>
+   </variable>
+   <variable>
+      <defaultValue>[500000, 500000, 0, 500000, 'oke']</defaultValue>
+      <description></description>
+      <id>455c5cad-9ae0-46a6-a38e-4b57d8575239</id>
+      <masked>false</masked>
+      <name>product_price_arr</name>
+   </variable>
+</TestCaseEntity>

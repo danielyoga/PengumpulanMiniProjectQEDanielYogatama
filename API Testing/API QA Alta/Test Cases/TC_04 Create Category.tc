@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04 Create Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98bd8a39-d4af-4562-a810-0588d04ae0b5</testCaseGuid>
+   <variable>
+      <defaultValue>['kesehatan', 'kesehatan', '1234']</defaultValue>
+      <description></description>
+      <id>6a507e7f-10f8-49e4-a59e-6020edf62903</id>
+      <masked>false</masked>
+      <name>category_name_arr</name>
+   </variable>
+</TestCaseEntity>

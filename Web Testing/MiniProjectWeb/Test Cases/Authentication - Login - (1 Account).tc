@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Authentication - Login - (1 Account)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0565d663-5dc8-4e23-99e3-72b9c1e125fe</testCaseGuid>
+   <variable>
+      <defaultValue>'agung@gmail.com'</defaultValue>
+      <description></description>
+      <id>4e40a8fa-1570-4bcf-b610-152a51618442</id>
+      <masked>false</masked>
+      <name>email_arr</name>
+   </variable>
+   <variable>
+      <defaultValue>'agung123'</defaultValue>
+      <description></description>
+      <id>7dff39e9-b39a-47ea-82d2-4cf97af868e6</id>
+      <masked>false</masked>
+      <name>password_arr</name>
+   </variable>
+</TestCaseEntity>

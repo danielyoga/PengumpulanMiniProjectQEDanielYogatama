@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_35 Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0379a904-e8aa-487b-b68e-fef5ef1e9345</testCaseGuid>
+   <variable>
+      <defaultValue>[1, 'aku', 1, '', 1]</defaultValue>
+      <description></description>
+      <id>95412a92-fe31-4926-a1eb-4c7ebc849470</id>
+      <masked>false</masked>
+      <name>product_id_arr</name>
+   </variable>
+   <variable>
+      <defaultValue>[2, 2, 'aku', 2, '']</defaultValue>
+      <description></description>
+      <id>83478fef-288a-4ab1-927a-74cc3a655810</id>
+      <masked>false</masked>
+      <name>quantity_arr</name>
+   </variable>
+</TestCaseEntity>

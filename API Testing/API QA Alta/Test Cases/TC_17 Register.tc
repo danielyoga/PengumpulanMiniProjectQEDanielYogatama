@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_17 Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e73e8699-dcac-45d4-b399-08c899edd746</testCaseGuid>
+   <variable>
+      <defaultValue>['Agung Pratama', 'Agung Pratama', '123123', 'Agung Pratama', '', ' ', '', 'Agung Pratama', 'Agung Pratama', 'Agung Pratama']</defaultValue>
+      <description></description>
+      <id>06138d3c-3cc4-4676-89d1-47995151d866</id>
+      <masked>false</masked>
+      <name>fullname_arr</name>
+   </variable>
+   <variable>
+      <defaultValue>['agung@gmail.com5', 'agung2', 'agung@gmail.com6', 123123, '', ' ', 'agung@gmail.com7', '', 'agung@gmail.com8', 'agung@gmail.com']</defaultValue>
+      <description></description>
+      <id>a6797b93-d00c-46ed-a81e-c88493241a7b</id>
+      <masked>false</masked>
+      <name>email_arr</name>
+   </variable>
+   <variable>
+      <defaultValue>['agung123', 'agung123', 'agung123', 'agung123', '', ' ', 'agung123', 'agung123', '', 'agung123']</defaultValue>
+      <description></description>
+      <id>8b684794-4bcc-4d8b-831b-42f1b22d1e61</id>
+      <masked>false</masked>
+      <name>password_arr</name>
+   </variable>
+</TestCaseEntity>

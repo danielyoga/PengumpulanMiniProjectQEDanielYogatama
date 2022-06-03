@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_11 Authentication - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df7418be-c206-4157-96b1-9b901d84f585</testCaseGuid>
+   <variable>
+      <defaultValue>['agung@gmail.com', 'okeng@gmail.com', 'agung@gmail.com', '123123123', '', '                 ', '', 'agung@gmail.com']</defaultValue>
+      <description></description>
+      <id>79a01eb1-bf8b-439c-9af4-f2d4064304ef</id>
+      <masked>false</masked>
+      <name>email_arr</name>
+   </variable>
+   <variable>
+      <defaultValue>['agung123', 'agung123', 'anubro', 'agung123', '', '   ', 'agung123', '']</defaultValue>
+      <description></description>
+      <id>a4580a5b-e6f5-4300-9558-be88d5249c7b</id>
+      <masked>false</masked>
+      <name>password_arr</name>
+   </variable>
+</TestCaseEntity>

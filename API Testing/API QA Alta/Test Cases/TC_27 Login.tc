@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_27 Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a25dd86-bddd-4ad7-a761-c5623a7daa12</testCaseGuid>
+   <variable>
+      <defaultValue>['agung@gmail.com5', 'agung@gmail.com6', 'agung@gmail.com7', 'agung@gmail.com8', 'agung@gmail.com', 'agung2', '123123']</defaultValue>
+      <description></description>
+      <id>ad7c8f70-8b76-445a-85d8-bfe10acb67c5</id>
+      <masked>false</masked>
+      <name>email_arr</name>
+   </variable>
+</TestCaseEntity>
